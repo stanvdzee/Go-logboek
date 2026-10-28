@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "datum": "19-10-2026",
+            "titel": "CLI maken\n",
+            "beschrijving": "Ik heb geleerd hoe argumenten werken\n",
+            "minuten": 30,
+            "categorie": ""
+        },
+        {
+            "datum": "19-10-2026",
+            "titel": "Go leren\n",
+            "beschrijving": "Vandaag heb ik geleerd hoe Go werkt\n",
+            "minuten": 40,
+            "categorie": ""
+        },
+        {
+            "datum": "19-10-2026",
+            "titel": "Go leren \n",
+            "beschrijving": "vandaag heb ik geleerd hoe Go werkt\n",
+            "minuten": 60,
+            "categorie": ""
+        },
+        {
+            "datum": "21-10-2026",
+            "titel": "uren toevoegen\n",
+            "beschrijving": "toevoegen van de uren\n",
+            "minuten": 30,
+            "categorie": "coderen\n"
+        },
+        {
+            "datum": "23-10-2026",
+            "titel": "Uren naar minuten overzetten",
+            "beschrijving": "De uren naar minuten overzetten op code",
+            "minuten": 45,
+            "categorie": "progammeren"
+        },
+        {
+            "datum": "23-10-2026",
+            "titel": "lege beschrijving",
+            "beschrijving": "",
+            "minuten": 45,
+            "categorie": "test"
+        }
+    ]
+}

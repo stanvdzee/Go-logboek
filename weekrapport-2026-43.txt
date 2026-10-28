@@ -1,0 +1,62 @@
+Weekrapport - week 43 van 2026
+
+=== 19-10-2026 ===
+Titel: CLI maken
+
+Beschrijving: Ik heb geleerd hoe argumenten werken
+
+Minuten: 30
+Categorie: 
+
+Titel: Go leren
+
+Beschrijving: Vandaag heb ik geleerd hoe Go werkt
+
+Minuten: 40
+Categorie: 
+
+Titel: Go leren 
+
+Beschrijving: vandaag heb ik geleerd hoe Go werkt
+
+Minuten: 60
+Categorie: 
+
+Totaal deze dag: 130 minuten
+
+=== 21-10-2026 ===
+Titel: uren toevoegen
+
+Beschrijving: toevoegen van de uren
+
+Minuten: 30
+Categorie: coderen
+
+
+Totaal deze dag: 30 minuten
+
+=== 23-10-2026 ===
+Titel: Uren naar minuten overzetten
+Beschrijving: De uren naar minuten overzetten op code
+Minuten: 45
+Categorie: progammeren
+
+Titel: lege beschrijving
+Beschrijving: 
+Minuten: 45
+Categorie: test
+
+Totaal deze dag: 90 minuten
+
+Totaal aantal minuten deze week: 250
+
+=== Weekreflectie ===
+Wat heb je deze week geleerd?
+van alles
+
+Wat ging goed en wat kon beter?
+coderen. het aanmaken van bestanden
+
+Wat heb je geleerd van je drukste dag?
+hoe ik met GO moet omgaan
+
